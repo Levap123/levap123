@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flask,fiber,gin**
 
-- 🤝 I’m looking for help with **internship search**
+- 🤝 I’m looking for **internship**
 
 - 📫 How to reach me **https://t.me/kavelpim123**
 
