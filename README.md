@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">Wanna be Go/python backend dev</h3>
+<h3 align="center">Wanna be backend dev (Java, Go or Python)</h3>
 
 - 🔭 I’m currently working on [NFT info getter by address using blockhain API](https://github.com/Levap123/ass3)
 
