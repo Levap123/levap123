@@ -3,7 +3,7 @@
 - :dizzy: interested in solidity
 - 🔭 I’m currently working on NFT info getter by address using blockhain API [python](https://github.com/Levap123/nft-finder) | [go](https://github.com/Levap123/nft-finder-go)
 
-- 🌱 I’m currently learning **flask, postgres, gin**
+- 🌱 I’m currently learning **flask, postgres, gin, solidity**
 
 - 🤝 I’m looking for **internship**
 
