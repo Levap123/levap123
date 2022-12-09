@@ -3,7 +3,7 @@
 - :dizzy: interested in solidity
 - 🔭 I’m currently working on forum rest api on [Go](https://github.com/Levap123/forum)
 
-- 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing**
+- 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker**
 
 - 🤝 I’m looking for **internship**
 
