@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 
 - :dizzy: interested in solidity
-- 🔭 I’m currently working on NFT info getter by address using blockhain API [python](https://github.com/Levap123/nft-finder) | [go](https://github.com/Levap123/nft-finder-go)
+- 🔭 I’m currently working on forum rest api on [Go](https://github.com/Levap123/forum)
 
-- 🌱 I’m currently learning **flask, postgres, gin, solidity**
+- 🌱 I’m currently learning **Go, postgres, computer networks, Restful API**
 
 - 🤝 I’m looking for **internship**
 
