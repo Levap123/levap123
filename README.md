@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 
 - :dizzy: interested in solidity
-- 🔭 I’m currently working on forum rest api on [Go](https://github.com/Levap123/forum)
+- 🔭 I’m currently working on tcp chat with nc on [Go](https://github.com/Levap123/net-cat)
 
 - 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, protobuf, GRPC**
 
