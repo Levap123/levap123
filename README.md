@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 
-- :dizzy: interested in solidity
-- 🔭 I’m currently working on tcp chat with nc on [Go](https://github.com/Levap123/net-cat)
+- :dizzy: interested in blockchain and backend development 
+- 🔭 I’m currently working on bookstore microservices application using gRPC(protobuf) [Go](https://github.com/Levap123/bookstore)
 
 - 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, protobuf, GRPC**
 
-- 🤝 I’m looking for **internship**
+- 🤝 I’m looking for **internship** or **junior go developer position"
 
 - 📫 How to reach me **https://t.me/kavelpim123**
 
