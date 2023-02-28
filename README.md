@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=levap123&label=Profile%20views&color=0e75b6&style=flat" alt="levap123" /> </p>
 
 - :dizzy: interested in blockchain and backend development 
 - 🔭 I’m currently working on bookstore microservices application using gRPC(protobuf) [Go](https://github.com/Levap123/bookstore)
@@ -21,13 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levap123&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=levap123&label=Profile%20views&color=0e75b6&style=flat" alt="levap123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levap123" alt="levap123" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
