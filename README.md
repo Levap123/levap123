@@ -16,12 +16,9 @@
 
 ## Github STATS :cyclone: !
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Levap123&theme=algolia&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
- 
-![github stats](https://github-readme-stats.vercel.app/api?username=Levap123&show_icons=true&theme=algolia)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Levap123&theme=algolia&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />  ![github stats](https://github-readme-stats.vercel.app/api?username=Levap123&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levap123&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Levap123&layout=compact&theme=algolia"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levap123" alt="levap123" /></a> </p>
 
