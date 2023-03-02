@@ -4,7 +4,7 @@
 - :dizzy: interested in blockchain and backend development 
 - 🔭 I’m currently working on bookstore microservices application using gRPC(protobuf) [Go](https://github.com/Levap123/bookstore)
 
-- 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, protobuf, GRPC**
+- 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, gRPC(protobuf)**
 
 - 🤝 I’m looking for **internship** or **junior go developer position**
 
