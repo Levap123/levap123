@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levap123&label=Profile%20views&color=0e75b6&style=flat" alt="levap123" /> </p>
 
 - :dizzy: interested in blockchain and backend development 
-- 🔭 I’m currently working on bookstore microservices application using gRPC(protobuf) [Go](https://github.com/Levap123/bookstore)
+- 🔭 I’m currently working on bookstore microservices application using gRPC(protobuf) [LINK](https://github.com/Levap123/bookstore)
 
 - 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, gRPC(protobuf)**
 
