@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, gRPC(protobuf)**
 
-- 🤝 I’m looking for **internship** or **junior go developer position**
-
 - 📫 How to reach me **https://t.me/kavelpim123**
 
 
